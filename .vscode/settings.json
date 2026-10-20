@@ -1,0 +1,6 @@
+{
+  "tailwindCSS.includeLanguages": { "javascript": "javascript" },
+  "tailwindCSS.experimental.classRegex": [["`([^`]*)`", "([^\\s]+)"]],
+  "editor.formatOnSave": true,
+  "css.lint.unknownAtRules": "ignore"
+}
